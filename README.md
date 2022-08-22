@@ -8,7 +8,7 @@ This app is a simple hellow world app in swift. It reads a message. If you click
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+![Kapture 2022-08-21 at 22 14 06](https://user-images.githubusercontent.com/111587247/185844466-02f7a6a7-d03d-4893-ac01-7711c20e6410.gif)
 
 
 ### Required User Stories
