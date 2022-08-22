@@ -6,9 +6,8 @@
 This app is a simple hellow world app in swift. It reads a message. If you click on the button that is seen on the lower half of the screen, the message will change its color.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+![Kapture 2022-08-21 at 22 14 06 2](https://user-images.githubusercontent.com/111587247/185844642-df1d4af3-e57f-4325-a354-c0b19d77955f.gif)
 
-![Kapture 2022-08-21 at 22 14 06](https://user-images.githubusercontent.com/111587247/185844466-02f7a6a7-d03d-4893-ac01-7711c20e6410.gif)
 
 
 ### Required User Stories
